@@ -1,0 +1,12 @@
+ [
+    {"id": 1,"courseName":"HTML"},
+    {"id": 2,"courseName":"CSS"},
+    {"id": 3,"courseName":"Javascript"},
+    {"id": 4,"courseName":"ReactJS" },
+    {"id": 5,"courseName":"NodeJS" },
+    {"id": 6,"courseName":"ExpressJS"},
+    {"id": 7,"courseName":"MongoDB"},
+    {"id": 8,"courseName":"SQL"},
+    {"id": 9,"courseName":"Python"},
+    {"id": 10,"courseName":"Git"}
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Pallavi",
+    "age": 20,
+    "email": "pallavi@gmail.com",
+    "phone": 1111,
+    "city": "Ahmedabad"
+  },
+  {
+    "name": "Riya",
+    "age": 17,
+    "email": "riya@yahoo.com",
+    "phone": 2222,
+    "city": "Gandhinagar"
+  },
+  {
+    "name": "Aman",
+    "age": 22,
+    "email": "aman@gmail.com",
+    "phone": 3333,
+    "city": "Ahmedabad"
+  },
+  {
+    "name": "Kiran",
+    "age": 19,
+    "email": "kiran@gmail.com",
+    "phone": 4444,
+    "city": "Surat"
+  }
+]
